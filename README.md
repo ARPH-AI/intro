@@ -1,6 +1,6 @@
 # AI and data science for early detection of potential epidemic and pandemic outbreaks after COVID-19: Implementation of a scalable strategy of electronic, gender-inclusive, and socially responsible medical records in Argentina
 
-*** A multidisciplinary research project focused on AI & data science approaches to improve epidemic outbreaks response in Argentina ***
+***A multidisciplinary research project focused on AI & data science approaches to improve epidemic outbreaks response in Argentina***
 
 ## Welcome!
 
