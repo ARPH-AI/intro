@@ -19,7 +19,7 @@ This document is a hub to give you some information about the project. Jump stra
 ### The project
 
 This project is one of the nine research grantees that are part of the inaugural cohort of [Global South AI4COVID Program][link_Global_South_AI4COVID], which is funded by [Canada's International Development Research Centre (IDRC)][link_IDRC] and the [Swedish International Development Cooperation Agency (SIDA)][link_SIDA], with support from [Pulse Lab Jakarta][link_PulseLabJakarta] of the United Nations Global Pulse network.
-The project seeks to lay the foundations for the incorporation of frontier technologies and techniques such as Artificial Intelligence and Data Science (IA&DS) in order to detect potential epidemic outbreaks early and favor preventive public health decision-making, based on evidence and with gender perspective, both at the national, sub-national and local levels. We start from the diagnosis that for this purpose it is mandatory to have quality digital data and generate the conditions for progressively the whole jurisdictions and provinces to implement an Electronic Health Record (EHR), in which the "primary data" resulting from the health service provided to users, which is essential to move towards a more effective and efficient public health system.
+The project seeks to lay the foundations for the incorporation of frontier technologies and techniques such as Artificial Intelligence and Data Science (AI&DS) in order to detect potential epidemic outbreaks early and favor preventive public health decision-making, based on evidence and with gender perspective, both at the national, sub-national and local levels. We start from the diagnosis that for this purpose it is mandatory to have quality digital data and generate the conditions for progressively the whole jurisdictions and provinces to implement an Electronic Health Record (EHR), in which the "primary data" resulting from the health service provided to users, which is essential to move towards a more effective and efficient public health system.
 
 ### Activities
 
@@ -32,7 +32,7 @@ To this end, the project is divided into four groups of activities:
 
 ## Who are we?
 
-This project is a consortium of four institutions: [Centro Interdisciplinario de Estudios en Ciencia, Tecnología e Innovación (CIECTI)] [link_CIECTI] (the leader), [Fundación Sadosky][link_Fundacion_Sadosky], [Ministerio de Salud de la Nación][link_Ministerio_Salud] and [Ministerio de Ciencia, Tecnología e Innovación de la Nación][link_MinCyT].
+This project is a consortium of four institutions: [Centro Interdisciplinario de Estudios en Ciencia, Tecnología e Innovación (CIECTI)][link_CIECTI] (the leader), [Fundación Sadosky][link_Fundacion_Sadosky], [Ministerio de Salud de la Nación][link_Ministerio_Salud] and [Ministerio de Ciencia, Tecnología e Innovación de la Nación][link_MinCyT].
 
 The multidisciplinary nature of the project requires the contributions of talented professionals from the most diverse areas. We are a big team that continues growing!
 
