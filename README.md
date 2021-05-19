@@ -32,7 +32,7 @@ To this end, the project is divided into four groups of activities:
 
 ## Who are we?
 
-This project is a consortium of four institutions: [Centro Interdisciplinario de Estudios en Ciencia, Tecnología e Innovación (CIECTI)][link_CIECTI] (the leader), [Fundación Sadosky][link_Fundacion_Sadosky], [Ministerio de Salud de la Nación][link_Ministerio_Salud] and [Ministerio de Ciencia, Tecnología e Innovación de la Nación][link_MinCyT].
+This project is a consortium of four institutions: [Centro Interdisciplinario de Estudios en Ciencia, Tecnología e Innovación (CIECTI)][link_CIECTI] (the leader), [Ministerio de Salud de la Nación][link_Ministerio_Salud] and [Ministerio de Ciencia, Tecnología e Innovación de la Nación][link_MinCyT].
 
 The multidisciplinary nature of the project requires the contributions of talented professionals from the most diverse areas. We are a big team that continues growing!
 
